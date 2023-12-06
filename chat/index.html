@@ -1,0 +1,17 @@
+<!-- paste this in your custom html section in your streamlabs dashboard -->
+<!-- https://streamlabs.com/dashboard#/chatbox -->
+<div id="log" class="sl__chat__layout flex flex-col gap-4">
+</div>
+
+<script type="text/template" id="chatlist_item">
+  <div data-from="{from}" data-id="{messageId}" class="grid w-full grid-flow-col place-content-start rounded-xl bg-gray-900 bg-opacity-95 px-4 py-4 shadow-xl ring-1 ring-gray-900/5 my-2">
+    <div class="h-full w-1 rounded-lg" style="background-color: {color}"></div>
+    <div class="flex flex-col">
+      <div class="ml-3 flex flex-row items-center gap-2 pt-1.5 font-bold text-white">
+        <span class="badges flex flex-row items-center gap-1"> </span>
+        <span> {from} </span>
+      </div>
+      <p class="my-1.5 ml-5 font-semibold text-white">{message}</p>
+    </div>
+  </div>
+</script>
