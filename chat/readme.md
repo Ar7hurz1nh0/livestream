@@ -1,6 +1,6 @@
 # Chat
 
-Example: (click to see it yourself)
+Example: (click to see the code yourself)
 <a href="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/example.html" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/example.png">
 </a>
