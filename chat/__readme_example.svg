@@ -773,16 +773,16 @@
           }
         </style>
         <div class="relative flex min-h-screen flex-col justify-center overflow-hidden py-6 bg-gray-900 sm:py-12">
-          <img src="https://play.tailwindcss.com/img/beams.jpg" alt="" class="absolute left-1/2 top-1/2 max-w-none -translate-x-1/2 -translate-y-1/2" width="1308" />
-          <div class="absolute inset-0 bg-[url(https://play.tailwindcss.com/img/grid.svg)] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"></div>
+          <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/beams.jpg" alt="" class="absolute left-1/2 top-1/2 max-w-none -translate-x-1/2 -translate-y-1/2" width="1308" />
+          <div class="absolute inset-0 bg-[url(https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/grid.svg)] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"></div>
           <div class="relative flex flex-col gap-4 mx-auto max-w-md">
             <div class="px-4 py-4 rounded-xl shadow-xl ring-1 ring-gray-900/5 bg-gray-900 bg-opacity-60 backdrop-blur-sm grid grid-flow-col">
               <div class="bg-lime-500 h-full w-1 rounded-lg"></div>
               <div class="flex flex-col">
                 <div class="ml-3 pt-1.5 flex flex-row items-center gap-2 font-bold dark:text-white">
                   <span class="flex flex-row items-center gap-1">
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/5527c58c-fb7d-422d-b71b-f309dcb85cc1/1"/>
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/d12a2e27-16f6-41d0-ab77-b780518f00a3/1"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/broadcaster.png"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/verified.png"/>
                   </span>
                   <span>
                     Ar7hurz1nh0
@@ -798,8 +798,8 @@
               <div class="flex flex-col">
                 <div class="ml-3 pt-1.5 flex flex-row items-center gap-2 font-bold dark:text-white">
                   <span class="flex flex-row items-center gap-1">
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1"/>
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/62310ba7-9916-4235-9eba-40110d67f85d/1"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/vip.png"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/50kBits.png"/>
                   </span>
                   <span>
                     Formula
@@ -815,8 +815,8 @@
               <div class="flex flex-col">
                 <div class="ml-3 pt-1.5 flex flex-row items-center gap-2 font-bold dark:text-white">
                   <span class="flex flex-row items-center gap-1">
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1"/>
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/62310ba7-9916-4235-9eba-40110d67f85d/1"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/vip.png"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/50kBits.png"/>
                   </span>
                   <span>
                     Formula
@@ -832,8 +832,8 @@
               <div class="flex flex-col">
                 <div class="ml-3 pt-1.5 flex flex-row items-center gap-2 font-bold dark:text-white">
                   <span class="flex flex-row items-center gap-1">
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/b817aba4-fad8-49e2-b88a-7cc744dfa6ec/1"/>
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/62310ba7-9916-4235-9eba-40110d67f85d/1"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/vip.png"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/50kBits.png"/>
                   </span>
                   <span>
                     Formula
@@ -849,8 +849,8 @@
               <div class="flex flex-col">
                 <div class="ml-3 pt-1.5 flex flex-row items-center gap-2 font-bold dark:text-white">
                   <span class="flex flex-row items-center gap-1">
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/3267646d-33f0-4b17-b3df-f923a41db1d0/1"/>
-                    <img src="https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/1"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/mod.png"/>
+                    <img src="https://raw.githubusercontent.com/Ar7hurz1nh0/livestream/master/chat/__readme_imgs/prime.png"/>
                   </span>
                   <span>
                     Capybaka
